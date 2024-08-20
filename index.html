@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age calculator</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div class="container">
+        <form action="">
+            <div class="base">
+                <h4>Age calculator <i class="fa-solid fa-calculator"></i></h4>
+                <div class="block">
+                    <p class="title">Date</p>
+                    <input type="text" name="date" id="date" placeholder="dd" required minlength="1" maxlength="2">
+                </div>
+                <div class="block">
+                    <p class="title">Month</p>
+                    <input type="text" name="month" id="month" placeholder="mm" required minlength="1" maxlength="2">
+                </div>
+                <div class="block">
+                    <p class="title">Year</p>
+                    <input type="text" name="year" id="year" placeholder="yy" required minlength="4" maxlength="4">
+                </div>
+                <button type="submit" id="btn">submit</button>
+                <div id="age"></div>
+            </div>
+       
+        </form>
+    </div>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>
