@@ -16,4 +16,5 @@ JavaScript: Implementing logic to handle date calculations and ensure accurate r
 Form Validation: Ensuring that users enter valid dates and providing feedback.
 check it on : https://mennaelmasry99.github.io/Age-calculator/
 
-![image](https://github.com/user-attachments/assets/29ad1eff-7ec9-4681-98a1-9847a335eaeb)
+![image](https://github.com/user-attachments/assets/c9f9e10a-8b7d-4709-a4f3-9defb239f483)
+
